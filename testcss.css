@@ -1,0 +1,18 @@
+.nani {
+  text-align: center;
+  background-color: cyan;
+}
+a:hover {
+  color: red;
+}
+.hontoka {
+  width: 500px;
+  border: 3px solid red;
+  margin: 0 auto;
+}
+ul {
+  font-size: 20px;
+}
+#test h1 + p{
+  font-size: 20px;
+}
