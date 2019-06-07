@@ -16,3 +16,20 @@ ul {
 #test h1 + p{
   font-size: 20px;
 }
+.hontoka{
+  padding: 20px;
+ /* background-image: url(hehe.jpg);
+  background-size: 300px;
+  background-position: center;
+  background-repeat: no-repeat; (example)*/
+}
+.hontoka div{
+  display: inline-block;
+  border:3px solid red;
+  margin:4px;
+}
+#test{
+  background-image: url(hehe.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
